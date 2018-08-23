@@ -1,4 +1,4 @@
-Create a function that takes a list of numbers and returns the sum of the two lowest positive numbers.
+Create a function that takes a list of numbers and returns a list where each number is the sum of itself + all previous numbers in the list.
 
 def cumulative_sum(lst):
     lista = []
